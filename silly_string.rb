@@ -1,4 +1,4 @@
-"humuhumunukunukuapua'a"
+your_favorite_word = "humuhumunukunukuapua'a"
 "humuhumunukunukuapua'a".upcase
 "IM NOT SHOUTING".downcase
 "supercalifragilisticexpialidocious".length
